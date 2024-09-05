@@ -1,3 +1,3 @@
-module github.com/SamuelOliveiraMartel/arraygenerate.go
+module github.com/SamuelOliveiraMartel/arraygenerate
 
 go 1.23.0
